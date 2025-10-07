@@ -4,7 +4,6 @@
 from pytube import YouTube
 import tkinter as tk
 from tkinter import filedialog  
-
 import time
 
 def download_video(url, save_path) : 
@@ -43,4 +42,5 @@ if __name__ == "__main__" :
 
   else: 
     print("Invalid Save Location.")
+
 
