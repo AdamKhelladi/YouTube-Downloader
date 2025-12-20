@@ -33,7 +33,7 @@ if __name__ == "__main__" :
   root = tk.Tk()
   root.withdraw()
 
-  video_url = input("Please enter A YouTubbe Url: ")
+  video_url = input("Please enter a YouTubbe Url: ")
   save_dir = open_file_dialog()
 
   if save_dir:
@@ -42,5 +42,6 @@ if __name__ == "__main__" :
 
   else: 
     print("Invalid save location.")
+
 
 
