@@ -1,5 +1,5 @@
 # -----------------------------------
-# --- YouTube Video Downloader ---
+# ----- YouTube Video Downloader ---
 # --------------------------------
 
 # Advanced Code 
